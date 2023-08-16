@@ -58,10 +58,11 @@ You can click the Preview link to take a look at your changes.
 <details>
 <summary><h3 style="display:inline;">🛠️ Skills</h3></summary>
 <ul>
-<li><p><b>💻 Programming</b>: C#, Java, Python</p></li>
+<li><p><b>💻 Programming</b>: C++/C, Java, Python</p></li>
+<li><p><b>👷 CAD Programming </b>: Mathlab & Simulink, AutoCAD, VHDL, Verilog </p></li> 
 <li><p><b>📊 Statistical Analysis </b>: R, STATA, SPSS</p></li>
 <li><p><b>📈 Machine Learning and Data Science</b>: MATLAB, Tableau</p></li>
-<li><p><b>🌐 Web Development</b>: HTML5, CSS3, JavaScript, Markdown, NodeJS, REST API Development, Hugo</p></li>
+<li><p><b>🌐 Web Development</b>: HTML5, CSS3, JavaScript, Markdown</p></li>
 <li><p><b>💿 Databases</b>: SQL</p></li>
 </ul>
 </details>
