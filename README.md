@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 <!-- Shield.io Badges -->
 <div align="center">
   
-[![Github: TevHeath](https://img.shields.io/badge/TevHeath-white?style=square&logo=GitHub&logoColor=black&link=https://github.com/TevHeath)](https://github.com/TevHeath/TevHeath])
+[![Github: TevHeath](https://img.shields.io/badge/TevHeath-white?style=square&logo=GitHub&logoColor=black&link=https://github.com/TevHeath)](https://github.com/TevHeath)
 
 </div>
 
