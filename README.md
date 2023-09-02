@@ -82,7 +82,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 💬 What to chat? Let's connect! 🤝
 
-[![Github: TevHeath](https://img.shields.io/badge/TevHeath-white?style=square&logo=GitHub&logoColor=black&link=https://github.com/TevHeath)](https://github.com/TevHeath])
+[![Github: TevHeath](https://img.shields.io/badge/TevHeath-white?style=square&logo=GitHub&logoColor=black&link=https://github.com/TevHeath)](https://github.com/TevHeath)
 
 
 </div>
