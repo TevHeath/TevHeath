@@ -35,9 +35,10 @@ You can click the Preview link to take a look at your changes.
     <summary><h3 style="display:inline;">🎓 Education</h3></summary>
     <ul>
     <li><p><b>Bachelor of Engineering</b> in Computer Engineering, University of Guelph (2027)</p></li>
-    <!--<li><p><b>Bachelor of Science</b> in Mathematics & Statistics, McMaster University (2020) </p></li>
     </ul>
 </details>
+
+<!--<li><p><b>Bachelor of Science</b> in Mathematics & Statistics, McMaster University (2020) </p></li>
 
 <!-- Work Experience -->
 <!--<details>
