@@ -27,8 +27,8 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Introduction -->
 ### I am a...
-- 👨‍💻 Computer Engineering Student at the University of Guelph.
-- 👨‍🎓 McMaster Univesity Alumni with a Bachelor of Science in Mathematics and Statistics
+- 👨‍💻 Computer Engineering Student at the University of Guelph
+<!--- 👨‍🎓 McMaster Univesity Alumni with a Bachelor of Science in Mathematics and Statistics
 
 <!-- Education -->
 <details>
