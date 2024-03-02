@@ -47,7 +47,7 @@ You can click the Preview link to take a look at your changes.
     <li><p><b>Financial & Accounting Analyst</b>, University of Guelph (Sept 2023 – December 2023)</p></li>
     <li><p><b>Data & Decision Support Analyst</b>, Cambridge Memorial Hospital (June 2022 – September 2022)</p></li>
     <li><p><b>Business & Data Analyst </b>, Homewood Health Inc. (April 2022  – June 2022)</p></li>
-    <li><p><b>Senior Consultant </b>, Microsoft Corporation (October 2021 – May 2022)</p></li>
+    <li><p><b>Senior Consultant </b>, KPMG Canada (October 2021 – May 2022)</p></li>
     <li><p><b>Municipal Supervisor </b>, City of London, Ontario (June 2021 – October 2021)</p></li>
     </ul>
 </details>
