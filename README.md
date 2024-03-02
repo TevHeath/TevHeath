@@ -41,17 +41,14 @@ You can click the Preview link to take a look at your changes.
 <!--<li><p><b>Bachelor of Science</b> in Mathematics & Statistics, McMaster University (2020) </p></li>
 
 <!-- Work Experience -->
-<!--<details>
+<details>
     <summary><h3 style="display:inline;">💼 Work Experience</h3></summary>
     <ul>
-    <li><p><b>Software Engineer II</b>, Microsoft Corporation (March 2022 – Present)</p></li>
-    <li><p><b>Software Engineer</b>, Microsoft Corporation (August 2019 – February 2022)</p></li>
-    <li><p><b>Teaching Assistant</b>, McMaster University (September 2016 – April 2019)</p></li>
-    <li><p><b>Software Engineering Intern</b>, Microsoft Corporation (May 2018 – August 2018)</p></li>
-    <li><p><b>Software Engineering Intern</b>, Syngli Inc. (May 2017 – August 2017)</p></li>
-    <li><p><b>CodeMakers Curriculum Coordinator</b>, Venture Engineering and Science at McMaster University (September 2015 – August 2016)</p></li>
-    <li><p><b>Lab Instructor</b>, Venture Engineering and Science at McMaster University (May 2015 – August 2015)</p></li>
-    <li><p><b>Computer Instructor</b>, LogicFusion Limited (March 2012 – August 2014)</p></li>
+    <li><p><b>Financial & Accounting Analyst</b>, University of Guelph (Sept 2023 – December 2023)</p></li>
+    <li><p><b>Data & Decision Support Analyst</b>, Cambridge Memorial Hospital (June 2022 – September 2022)</p></li>
+    <li><p><b>Business & Data Analyst </b>, Homewood Health Inc. (April 2022  – June 2022)</p></li>
+    <li><p><b>Senior Consultant </b>, Microsoft Corporation (October 2021 – May 2022)</p></li>
+    <li><p><b>Municipal Supervisor </b>, City of London, Ontario (June 2021 – October 2021)</p></li>
     </ul>
 </details>
 
