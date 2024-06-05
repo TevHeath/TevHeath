@@ -44,6 +44,7 @@ You can click the Preview link to take a look at your changes.
 <details>
     <summary><h3 style="display:inline;">💼 Work Experience</h3></summary>
     <ul>
+    <li><p><b>Software Engineering & Project Managment Summer Student </b>, City of Calgary (May 2024 – August 2024)</p></li>
     <li><p><b>Financial & Accounting Analyst</b>, University of Guelph (Sept 2023 – December 2023)</p></li>
     <li><p><b>Data & Decision Support Analyst</b>, Cambridge Memorial Hospital (June 2022 – September 2022)</p></li>
     <li><p><b>Business & Data Analyst </b>, Homewood Health Inc. (April 2022  – June 2022)</p></li>
