@@ -55,7 +55,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Modules/Courses -->
 <details>
-<summary><h3 style="display:inline;">🛠️ Skills</h3></summary>
+<summary><h3 style="display:inline;">🛠️ Courses/Modules</h3></summary>
 <ul>
   <li>
     <p><b>💻 Mathematics</b>: C++/C, Java, Python</p>
