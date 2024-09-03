@@ -58,7 +58,7 @@ You can click the Preview link to take a look at your changes.
 <summary><h3 style="display:inline;">🛠️ Courses/Modules</h3></summary>
 <ul>
   <li>
-    <p><b>💻 Mathematics</b>: C++/C, Java, Python</p>
+    <p><b>🧮 Mathematics</b>: C++/C, Java, Python</p>
     <ul>
       <li>MATH 1200 - Calculus I (Fall 2023)</li>
       <li>MATH 1210 - Calculus II (Winter 2024)</li>
@@ -67,7 +67,7 @@ You can click the Preview link to take a look at your changes.
     </ul>
   </li>
   <li>
-    <p><b>👷 Physics</b></p>
+    <p><b>📡 Physics</b></p>
     <ul>
       <li>PHYS 1130 - Physics with Applications (Fall 2023)</li>
       <li>PHYS 1010 - Introductory Electricity & Magnetism (Winter 2024)</li>
@@ -75,13 +75,13 @@ You can click the Preview link to take a look at your changes.
     </ul>
   </li>
   <li>
-    <p><b>📊 Engineering Design</b></p>
+    <p><b>🏗️ Engineering Design</b></p>
     <ul>
       <li>ENGG 1100 - Engineering Design I (AutoCAD & SolidWorks) (Fall 2023)</li>
     </ul>
   </li>
   <li>
-    <p><b>📈 Programming</b>: MATLAB, Tableau</p>
+    <p><b>👾 Programming</b>: MATLAB, Tableau</p>
     <ul>
       <li>ENGG 1410 Introductory C Programming for Engineers (Fall 2023)</li>
     </ul>
