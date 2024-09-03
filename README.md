@@ -53,9 +53,56 @@ You can click the Preview link to take a look at your changes.
     </ul>
 </details>
 
-<!-- Skills -->
+<!-- Modules/Courses -->
 <details>
 <summary><h3 style="display:inline;">🛠️ Skills</h3></summary>
+<ul>
+  <li>
+    <p><b>💻 Mathematics</b>: C++/C, Java, Python</p>
+    <ul>
+      <li>C++</li>
+      <li>C</li>
+      <li>Java</li>
+      <li>Python</li>
+    </ul>
+  </li>
+  <li>
+    <p><b>👷 Physics/b>: Mathlab & Simulink, AutoCAD, VHDL, Verilog</p>
+    <ul>
+      <li>Mathlab & Simulink</li>
+      <li>AutoCAD</li>
+      <li>VHDL</li>
+      <li>Verilog</li>
+    </ul>
+  </li>
+  <li>
+    <p><b>📊 Engineering Design</b>: R, STATA, SPSS</p>
+    <ul>
+      <li>R</li>
+      <li>STATA</li>
+      <li>SPSS</li>
+    </ul>
+  </li>
+  <li>
+    <p><b>📈 Programming</b>: MATLAB, Tableau</p>
+    <ul>
+      <li>MATLAB</li>
+      <li>Tableau</li>
+    </ul>
+  </li>
+  <li>
+    <p><b>🌐 General/Complementary Courses</b>: HTML5, CSS3, JavaScript, Markdown</p>
+    <ul>
+      <li><mark>XXX</li>
+      <li><mark>XXX</li>
+    </ul>
+</details>
+
+
+
+<!-- Professional Societies -->
+<details>
+<summary><h3 style="display:inline;">🛠️ Professional Societies</h3></summary>
 <ul>
 <li><p><b>💻 Programming</b>: C++/C, Java, Python</p></li>
 <li><p><b>👷 CAD Programming </b>: Mathlab & Simulink, AutoCAD, VHDL, Verilog </p></li> 
@@ -65,6 +112,22 @@ You can click the Preview link to take a look at your changes.
 <li><p><b>💿 Databases</b>: SQL</p></li>
 </ul>
 </details>
+
+
+<!-- Professional Societies -->
+<details>
+<summary><h3 style="display:inline;">🛠️ Professional Development</h3></summary>
+<ul>
+<li><p><b>💻 Programming</b>: C++/C, Java, Python</p></li>
+<li><p><b>👷 CAD Programming </b>: Mathlab & Simulink, AutoCAD, VHDL, Verilog </p></li> 
+<li><p><b>📊 Statistical Analysis </b>: R, STATA, SPSS</p></li>
+<li><p><b>📈 Machine Learning and Data Science</b>: MATLAB, Tableau</p></li>
+<li><p><b>🌐 Web Development</b>: HTML5, CSS3, JavaScript, Markdown</p></li>
+<li><p><b>💿 Databases</b>: SQL</p></li>
+</ul>
+</details>
+
+
 
 <!-- Hobbies and Interests
 <details>
