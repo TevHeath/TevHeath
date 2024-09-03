@@ -81,7 +81,7 @@ You can click the Preview link to take a look at your changes.
     </ul>
   </li>
   <li>
-    <p><b>👾 Programming</b>: MATLAB, Tableau</p>
+    <p><b>👾 Programming</b></p>
     <ul>
       <li>ENGG 1410 Introductory C Programming for Engineers (Fall 2023)</li>
     </ul>
@@ -96,16 +96,14 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<!-- Professional Societies 
+<!-- Professional Societies --->
 <details>
 <summary><h3 style="display:inline;">🛠️ Professional Societies</h3></summary>
 <ul>
-<li><p><b>💻 Programming</b>: C++/C, Java, Python</p></li>
-<li><p><b>👷 CAD Programming </b>: Mathlab & Simulink, AutoCAD, VHDL, Verilog </p></li> 
-<li><p><b>📊 Statistical Analysis </b>: R, STATA, SPSS</p></li>
-<li><p><b>📈 Machine Learning and Data Science</b>: MATLAB, Tableau</p></li>
-<li><p><b>🌐 Web Development</b>: HTML5, CSS3, JavaScript, Markdown</p></li>
-<li><p><b>💿 Databases</b>: SQL</p></li>
+    <p><b>🌐 Institute of Electrical and Electronics Engineer - (Student Memeber: September 2024 - Present)</b></p>
+    <ul>
+      <li><mark>XXX</li>
+      <li><mark>XXX</li>
 </ul>
 </details>
 
