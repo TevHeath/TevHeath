@@ -60,34 +60,30 @@ You can click the Preview link to take a look at your changes.
   <li>
     <p><b>💻 Mathematics</b>: C++/C, Java, Python</p>
     <ul>
-      <li>C++</li>
-      <li>C</li>
-      <li>Java</li>
-      <li>Python</li>
+      <li>MATH 1200 - Calculus I (Fall 2023)</li>
+      <li>MATH 1210 - Calculus II (Winter 2024)</li>
+      <li>ENGG 1210 - Linear Algebra/Engineering Analysis w/ MATLAB</li>
+      <li><mark>MATH 2270 - Applied Differnetial Equations</li>
     </ul>
   </li>
   <li>
-    <p><b>👷 Physics/b>: Mathlab & Simulink, AutoCAD, VHDL, Verilog</p>
+    <p><b>👷 Physics/b></p>
     <ul>
-      <li>Mathlab & Simulink</li>
-      <li>AutoCAD</li>
-      <li>VHDL</li>
-      <li>Verilog</li>
+      <li>PHYS 1130 - Physics with Applications</li>
+      <li>PHYS 1010 - Introductory Electricity & Magnetism</li>
+      <li><mark>PHYS 2330 -  Electricity & Magnetism I </li>
     </ul>
   </li>
   <li>
-    <p><b>📊 Engineering Design</b>: R, STATA, SPSS</p>
+    <p><b>📊 Engineering Design</b>/p>
     <ul>
-      <li>R</li>
-      <li>STATA</li>
-      <li>SPSS</li>
+      <li>ENGG 1100 - Engineering Design I (AutoCAD & SolidWorks)</li>
     </ul>
   </li>
   <li>
     <p><b>📈 Programming</b>: MATLAB, Tableau</p>
     <ul>
-      <li>MATLAB</li>
-      <li>Tableau</li>
+      <li>ENGG 1410 Introductory Programming for Engineers</li>
     </ul>
   </li>
   <li>
