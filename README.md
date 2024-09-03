@@ -62,41 +62,41 @@ You can click the Preview link to take a look at your changes.
     <ul>
       <li>MATH 1200 - Calculus I (Fall 2023)</li>
       <li>MATH 1210 - Calculus II (Winter 2024)</li>
-      <li>ENGG 1210 - Linear Algebra/Engineering Analysis w/ MATLAB</li>
-      <li><mark>MATH 2270 - Applied Differnetial Equations</li>
+      <li>ENGG 1210 - Linear Algebra/Engineering Analysis w/ MATLAB (Winter 2024)</li>
+      <li><mark>MATH 2270 - Applied Differential Equations (Fall 2024)</li>
     </ul>
   </li>
   <li>
-    <p><b>👷 Physics/b></p>
+    <p><b>👷 Physics</b></p>
     <ul>
-      <li>PHYS 1130 - Physics with Applications</li>
-      <li>PHYS 1010 - Introductory Electricity & Magnetism</li>
-      <li><mark>PHYS 2330 -  Electricity & Magnetism I </li>
+      <li>PHYS 1130 - Physics with Applications (Fall 2023)</li>
+      <li>PHYS 1010 - Introductory Electricity & Magnetism (Winter 2024)</li>
+      <li><mark>PHYS 2330 -  Electricity & Magnetism I (Fall 2024)</li>
     </ul>
   </li>
   <li>
-    <p><b>📊 Engineering Design</b>/p>
+    <p><b>📊 Engineering Design</b></p>
     <ul>
-      <li>ENGG 1100 - Engineering Design I (AutoCAD & SolidWorks)</li>
+      <li>ENGG 1100 - Engineering Design I (AutoCAD & SolidWorks) (Fall 2023)</li>
     </ul>
   </li>
   <li>
     <p><b>📈 Programming</b>: MATLAB, Tableau</p>
     <ul>
-      <li>ENGG 1410 Introductory Programming for Engineers</li>
+      <li>ENGG 1410 Introductory C Programming for Engineers (Fall 2023)</li>
     </ul>
   </li>
   <li>
-    <p><b>🌐 General/Complementary Courses</b>: HTML5, CSS3, JavaScript, Markdown</p>
+    <p><b>🌐 General/Complementary Courses</b></p>
     <ul>
-      <li><mark>XXX</li>
-      <li><mark>XXX</li>
+      <li><mark>GEOG 1220 - Science and Technology in a Global Context (Fall 2024)</li>
+      <li><mark>HIST 1250 - Explaining Environmental Change (Fall 2024)</li>
     </ul>
 </details>
 
 
 
-<!-- Professional Societies -->
+<!-- Professional Societies 
 <details>
 <summary><h3 style="display:inline;">🛠️ Professional Societies</h3></summary>
 <ul>
@@ -110,7 +110,7 @@ You can click the Preview link to take a look at your changes.
 </details>
 
 
-<!-- Professional Societies -->
+<!-- Professional Development 
 <details>
 <summary><h3 style="display:inline;">🛠️ Professional Development</h3></summary>
 <ul>
