@@ -101,27 +101,30 @@ You can click the Preview link to take a look at your changes.
 <details>
 <summary><h3 style="display:inline;">🛠️ Professional Societies</h3></summary>
 <ul>
-    <p><b>🌐 Institute of Electrical and Electronics Engineer - (Student Memeber: September 2024 - Present)</b></p>
+    <p><b>🌐 Institute of Electrical and Electronics Engineer - (Student Member: September 2024 - Present)</b></p>
     <ul>
-      <li><mark>XXX</li>
-      <li><mark>XXX</li>
-</ul>
+      <li><mark> Student Member - Computer Society</li>
+      <li><mark> Student Member - Circuits and Systems Society</li>
+      <li><mark> Student Member - Industry Application Society</li>
+      <li><mark> Student Member - Solid State Circuits Society </li>
+      <li><mark> Student Member - Automation Design Council</li>
+      <li><mark> Student Member - Consumer Technology Society</li>
+      </ul>
 </details>
 
 
-<!-- Professional Development 
+<!-- Professional Development --->
 <details>
 <summary><h3 style="display:inline;">🛠️ Professional Development</h3></summary>
 <ul>
-<li><p><b>💻 Programming</b>: C++/C, Java, Python</p></li>
-<li><p><b>👷 CAD Programming </b>: Mathlab & Simulink, AutoCAD, VHDL, Verilog </p></li> 
-<li><p><b>📊 Statistical Analysis </b>: R, STATA, SPSS</p></li>
-<li><p><b>📈 Machine Learning and Data Science</b>: MATLAB, Tableau</p></li>
-<li><p><b>🌐 Web Development</b>: HTML5, CSS3, JavaScript, Markdown</p></li>
-<li><p><b>💿 Databases</b>: SQL</p></li>
-</ul>
+    <p><b>🌐 Institute of Electrical and Electronics Engineer - (Student Member: September 2024 - Present)</b></p>
+    <ul>
+      <li><mark> ANSYS Innovation Space Education Program</li>
+      <li><mark> Altium Education: Student Lab</li>
+      <li><mark> Github Education: Student Developer Pack</li>
+      <li><mark> MATLAB for Students - MathWorks</li>    
+      </ul>
 </details>
-
 
 
 <!-- Hobbies and Interests
