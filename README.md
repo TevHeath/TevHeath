@@ -99,7 +99,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Professional Societies --->
 <details>
-<summary><h3 style="display:inline;">🛠️ Professional Societies</h3></summary>
+<summary><h3 style="display:inline;">🏆 Professional Societies</h3></summary>
 <ul>
     <p><b>🌐 Institute of Electrical and Electronics Engineer - (Student Member: September 2024 - Present)</b></p>
     <ul>
@@ -115,9 +115,9 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Professional Development --->
 <details>
-<summary><h3 style="display:inline;">🛠️ Professional Development</h3></summary>
+<summary><h3 style="display:inline;">💡 Professional Development</h3></summary>
 <ul>
-    <p><b>🌐 Institute of Electrical and Electronics Engineer - (Student Member: September 2024 - Present)</b></p>
+    <p><b> Educational and Development Program: </b></p>
     <ul>
       <li><mark> ANSYS Innovation Space Education Program</li>
       <li><mark> Altium Education: Student Lab</li>
