@@ -44,12 +44,12 @@ You can click the Preview link to take a look at your changes.
 <details>
     <summary><h3 style="display:inline;">💼 Work Experience</h3></summary>
     <ul>
-    <li><p><b>Software Engineering & Project Managment Summer Student </b>, City of Calgary (May 2024 – August 2024)</p></li>
+    <li><p><b>Data Strategist & Project Management Intern</b>, City of Calgary (May 2024 – August 2024)</p></li>
     <li><p><b>Financial & Accounting Analyst</b>, University of Guelph (Sept 2023 – December 2023)</p></li>
     <li><p><b>Data & Decision Support Analyst</b>, Cambridge Memorial Hospital (June 2022 – September 2022)</p></li>
-    <li><p><b>Business & Data Analyst </b>, Homewood Health Inc. (April 2022  – June 2022)</p></li>
-    <li><p><b>Senior Consultant </b>, KPMG Canada (October 2021 – May 2022)</p></li>
-    <li><p><b>Municipal Supervisor </b>, City of London, Ontario (June 2021 – October 2021)</p></li>
+    <li><p><b>Business & Data Analyst</b>, Homewood Health Inc. (April 2022  – June 2022)</p></li>
+    <li><p><b>Senior Consultant</b>, KPMG Canada (October 2021 – May 2022)</p></li>
+    <li><p><b>Municipal Supervisor Intern</b>, City of London, Ontario (June 2021 – October 2021)</p></li>
     </ul>
 </details>
 
@@ -58,7 +58,7 @@ You can click the Preview link to take a look at your changes.
 <summary><h3 style="display:inline;">🛠️ Courses/Modules</h3></summary>
 <ul>
   <li>
-    <p><b>🧮 Mathematics</b>: C++/C, Java, Python</p>
+    <p><b>🧮 Mathematics</b></p>
     <ul>
       <li>MATH 1200 - Calculus I (Fall 2023)</li>
       <li>MATH 1210 - Calculus II (Winter 2024)</li>
