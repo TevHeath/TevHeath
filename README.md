@@ -28,6 +28,7 @@ You can click the Preview link to take a look at your changes.
 <!-- Introduction -->
 ### I am a...
 - 👨‍💻 Computer Engineering Student at the University of Guelph
+<!--- Note that **Fall** refers to September to December and **Winter** refers to January to March
 <!--- 👨‍🎓 McMaster Univesity Alumni with a Bachelor of Science in Mathematics and Statistics
 
 <!-- Education -->
@@ -44,6 +45,7 @@ You can click the Preview link to take a look at your changes.
 <details>
     <summary><h3 style="display:inline;">💼 Work Experience</h3></summary>
     <ul>
+    <li><p><b>Research Assistant</b>, University of Guelph (May 2025 – August 2025)</p></li> 
     <li><p><b>Automation Developer & Project Management Intern</b>, City of Calgary (May 2024 – August 2024)</p></li>
     <li><p><b>Financial & Accounting Analyst</b>, University of Guelph (Sept 2023 – December 2023)</p></li>
     <li><p><b>Data & Decision Support Analyst</b>, Cambridge Memorial Hospital (June 2022 – September 2022)</p></li>
@@ -58,12 +60,14 @@ You can click the Preview link to take a look at your changes.
 <summary><h3 style="display:inline;">🛠️ Courses/Modules</h3></summary>
 <ul>
   <li>
-    <p><b>🧮 Mathematics</b></p>
+    <p><b>🧮 Mathematics, Statistics, Optimization & Modelling </b></p>
     <ul>
       <li>MATH 1200 - Calculus I (Fall 2023)</li>
       <li>MATH 1210 - Calculus II (Winter 2024)</li>
       <li>ENGG 1210 - Linear Algebra/Engineering Analysis w/ MATLAB (Winter 2024)</li>
-      <li><mark>MATH 2270 - Applied Differential Equations (Fall 2024)</li>
+      <li>MATH 2270 - Applied Differential Equations (Fall 2024)</li>
+      <li>MATH 2130 - Numerical Methods with MATLAB (Winter 2025)</li>
+      <li>ENGG 3700 - Numerical Optimization (Fall 2025)</li>
     </ul>
   </li>
   <li>
@@ -71,26 +75,35 @@ You can click the Preview link to take a look at your changes.
     <ul>
       <li>PHYS 1130 - Physics with Applications (Fall 2023)</li>
       <li>PHYS 1010 - Introductory Electricity & Magnetism (Winter 2024)</li>
-      <li><mark>PHYS 2330 -  Electricity & Magnetism I (Fall 2024)</li>
+      <li>PHYS 2330 -  Electricity & Magnetism I (Fall 2024)</li>
+      <li>PHYS 3230 -  Quantum Mechanics I (Fall 2025)</li>
     </ul>
   </li>
   <li>
     <p><b>🏗️ Engineering Design</b></p>
     <ul>
       <li>ENGG 1100 - Engineering Design I (AutoCAD & SolidWorks) (Fall 2023)</li>
+      <li>ENGG 2100 - Engineering Design II (AutoCAD & SolidWorks) (Winter 2026)</li>
     </ul>
   </li>
   <li>
-    <p><b>👾 Programming</b></p>
+    <p><b>👾 Computer Engineering</b></p>
     <ul>
-      <li>ENGG 1410 Introductory C Programming for Engineers (Fall 2023)</li>
+      <li>ENGG 1410 - Introductory C Programming for Engineers (Fall 2023)</li>
+      <li>ENGG 1420 - Introductory Object Oriented Programming with Java (Winter 2025)<li>
+      <li>ENGG 2130 - Digital System Design (Fall 2025)</li>
+      <li>CIS 2520  - Data Structures (Fall 2025)</li>
     </ul>
   </li>
   <li>
     <p><b>🌐 General/Complementary Courses</b></p>
     <ul>
-      <li><mark>GEOG 1220 - Science and Technology in a Global Context (Fall 2024)</li>
-      <li><mark>HIST 1250 - Explaining Environmental Change (Fall 2024)</li>
+      <li>GEOG 1220 - Science and Technology in a Global Context (Fall 2024)</li>
+      <li>HIST 1250 - Explaining Environmental Change (Fall 2024)</li>
+    </ul>
+    <p><b>🤝 Language Courses</b></p>
+    <ul>
+      <li>GERM 1100 - Introduction to German I (Fall 2025)</li>
     </ul>
 </details>
 
@@ -103,12 +116,8 @@ You can click the Preview link to take a look at your changes.
 <ul>
     <p><b>🌐 Institute of Electrical and Electronics Engineer - (Student Member: September 2024 - Present)</b></p>
     <ul>
-      <li><mark> Student Member - Computer Society</li>
-      <li><mark> Student Member - Circuits and Systems Society</li>
-      <li><mark> Student Member - Industry Application Society</li>
-      <li><mark> Student Member - Solid State Circuits Society </li>
-      <li><mark> Student Member - Automation Design Council</li>
-      <li><mark> Student Member - Consumer Technology Society</li>
+      <li><mark> Student Member - Communication Society</li>
+      <li><mark> Student Member - Antenna and Propagation Society </li>
       </ul>
 </details>
 
