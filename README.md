@@ -119,10 +119,11 @@ You can click the Preview link to take a look at your changes.
     <ul>
       <li><mark> Student Member - Communication Society</li>
       <li><mark> Student Member - Antenna and Propagation Society </li>
+      <li><mark> Student Member - Microwave Theory and Technology Society  </li>
       </ul>
 </details>
 
-
+ 
 <!-- Professional Development --->
 <details>
 <summary><h3 style="display:inline;">💡 Professional Development</h3></summary>
