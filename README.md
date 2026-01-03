@@ -45,7 +45,7 @@ You can click the Preview link to take a look at your changes.
 <details>
     <summary><h3 style="display:inline;">💼 Work Experience</h3></summary>
     <ul>
-    <li><p><b>Research Assistant</b>, University of Guelph (May 2025 – August 2025)</p></li> 
+    <li><p><b>Research Assistant</b>, University of Guelph (May 2025 – Present)</p></li> 
     <li><p><b>Automation Developer & Project Management Intern</b>, City of Calgary (May 2024 – August 2024)</p></li>
     <li><p><b>Financial & Accounting Analyst</b>, University of Guelph (Sept 2023 – December 2023)</p></li>
     <li><p><b>Data & Decision Support Analyst</b>, Cambridge Memorial Hospital (June 2022 – September 2022)</p></li>
@@ -67,7 +67,7 @@ You can click the Preview link to take a look at your changes.
       <li>ENGG 1210 - Linear Algebra/Engineering Analysis w/ MATLAB (Winter 2024)</li>
       <li>MATH 2270 - Applied Differential Equations (Fall 2024)</li>
       <li>MATH 2130 - Numerical Methods with MATLAB (Winter 2025)</li>
-      <li>ENGG 3700 - Numerical Optimization (Fall 2025)</li>
+      <li>ENGG 3700 - Engineering Optimization and Techniques (Fall 2025)</li>
     </ul>
   </li>
   <li>
@@ -76,7 +76,7 @@ You can click the Preview link to take a look at your changes.
       <li>PHYS 1130 - Physics with Applications (Fall 2023)</li>
       <li>PHYS 1010 - Introductory Electricity & Magnetism (Winter 2024)</li>
       <li>PHYS 2330 -  Electricity & Magnetism I (Fall 2024)</li>
-      <li>PHYS 3230 -  Quantum Mechanics I (Fall 2025)</li>
+      <li>PHYS 2330 - Electricity & Magnetism II (Winter 2026)</li>
     </ul>
   </li>
   <li>
@@ -91,7 +91,7 @@ You can click the Preview link to take a look at your changes.
     <ul>
       <li>ENGG 1410 - Introductory C Programming for Engineers (Fall 2023)</li>
       <li>ENGG 1420 - Introductory Object Oriented Programming with Java (Winter 2025)<li>
-      <li>ENGG 2130 - Digital System Design (Fall 2025)</li>
+      <li>ENGG 2410 - Digital System Design (Fall 2025)</li>
       <li>CIS 2520  - Data Structures (Fall 2025)</li>
     </ul>
   </li>
@@ -100,6 +100,7 @@ You can click the Preview link to take a look at your changes.
     <ul>
       <li>GEOG 1220 - Science and Technology in a Global Context (Fall 2024)</li>
       <li>HIST 1250 - Explaining Environmental Change (Fall 2024)</li>
+      <li>ACCT 1220 - Financial Accounting (Fall 2024)</li>
     </ul>
     <p><b>🤝 Language Courses</b></p>
     <ul>
