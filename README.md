@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Headers -->
 <h1 align="center" style="border-bottom:0px solid;">Hello World 🌐 I'm Tevin!</h1>
-<h3 align="center">Computer Engineering Student @ The University of Guelph </h3>
+<h3 align="center">Engineering Undergraduate Student Specializing in Optical Wireless Communication & Optimization Theory @ The University of Guelph </h3>
 
 <!-- Shield.io Badges -->
 <div align="center">
