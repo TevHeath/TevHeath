@@ -50,7 +50,7 @@ You can click the Preview link to take a look at your changes.
     <li><p><b>Automation Developer & Project Management Intern</b>, City of Calgary (May 2024 – August 2024)</p></li>
     <li><p><b>Financial & Accounting Analyst</b>, University of Guelph (Sept 2023 – December 2023)</p></li>
     <!-- <li><p><b>Data & Decision Support Analyst</b>, Cambridge Memorial Hospital (June 2022 – September 2022)</p></li> -->
-    <li><p><b>Business & Data Analyst</b>, Homewood Health Inc. (April 2022  – June 2022)</p></li>
+    <!-- <li><p><b>Business & Data Analyst</b>, Homewood Health Inc. (April 2022  – June 2022)</p></li> -->
     <li><p><b>Senior Consultant</b>, KPMG Canada (October 2021 – Nov 2022)</p></li>
     <li><p><b>Municipal Supervisor Intern</b>, City of London, Ontario (Sept 2020 – October 2021)</p></li>
     </ul>
